@@ -1,0 +1,6 @@
+name: Paypal Module
+type: module
+description: 'PayPal Module for Commerce'
+package: Custom
+version: 8.x
+core: 8.x

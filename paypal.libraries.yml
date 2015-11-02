@@ -1,0 +1,12 @@
+paypal_css:
+  version: 1.x
+  css:
+    theme:
+      css/paypal.css: {}
+      css/jquery-ui.css: {}
+  js:
+    js/jquery.js: {}
+    js/jquery.validate.min.js: {}
+    js/additional-methods.min.js: {}
+    js/jquery-ui.js: {}
+    js/validate.js: {}
